@@ -9,7 +9,7 @@ In this project, I was required to create a simple datepicker UI using only HTML
   View the detailed description and updates for my [Datepicker UI project](https://roadmap.sh/projects/datepicker-ui) on roadmap.sh.
 
 - **Support My Solution:**  
-  If you like my solution for the Tooltip UI project, [please upvote it here](https://roadmap.sh/projects/tooltip-ui/solutions?u=6771443070129741a8ecdc00). Your support means a lot! 👍
+  If you like my solution for the Tooltip UI project, [please upvote it here](https://roadmap.sh/projects/datepicker-ui/solutions?u=6771443070129741a8ecdc00). Your support means a lot! 👍
 
 - **My Profile on roadmap.sh:**  
   Check out my achievements, projects, and solutions on my [roadmap.sh profile](https://roadmap.sh/u/huzaifaakhtar).
